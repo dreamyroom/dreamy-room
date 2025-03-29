@@ -2,7 +2,7 @@
 
 Have you ever dreamed about stepping into a peaceful world, where each puzzle you solve unfolds a charming story? Welcome to **Dreamy Room**, a relaxing mobile game that lets you unpack, organize, and discover beautiful moments one room at a time. Released on March 16, 2025, by ABI Global Ltd, **Dreamy Room** is capturing hearts everywhere on Android and iOS. If you're ready to dive into a cozy, nostalgic adventure, play [Dreamy Room](https://dreamy-room.org) now!
 
-![Dreamy Room GamePlay](https://github.com/dreamyroom/dreamy-room/blob/main/dreamy-room-cover-1.png?raw=true)
+![Dreamy Room GamePlay](https://github.com/dreamyroom/dreamy-room/blob/main/dreamy-room-cover-1.png)
 
 ## What Exactly is Dreamy Room?
 
