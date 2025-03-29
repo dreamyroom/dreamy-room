@@ -1,6 +1,8 @@
 # Dreamy Room: Unpack Memories, One Puzzle at a Time
 
-Have you ever dreamed about stepping into a peaceful world, where each puzzle you solve unfolds a charming story? Welcome to **Dreamy Room**, a relaxing mobile game that lets you unpack, organize, and discover beautiful moments one room at a time. Released on March 16, 2025, by ABI Global Ltd, **Dreamy Room** is capturing hearts everywhere on Android and iOS. If you're ready to dive into a cozy, nostalgic adventure, [click here and start playing now!](https://dreamy-room.org)
+Have you ever dreamed about stepping into a peaceful world, where each puzzle you solve unfolds a charming story? Welcome to **Dreamy Room**, a relaxing mobile game that lets you unpack, organize, and discover beautiful moments one room at a time. Released on March 16, 2025, by ABI Global Ltd, **Dreamy Room** is capturing hearts everywhere on Android and iOS. If you're ready to dive into a cozy, nostalgic adventure, play [Dreamy Room](https://dreamy-room.org) now!
+
+![Dreamy Room GamePlay](https://github.com/dreamyroom/dreamy-room/blob/main/dreamy-room-cover-1.png?raw=true)
 
 ## What Exactly is Dreamy Room?
 
@@ -40,4 +42,4 @@ If you enjoy cozy, calming games with a dash of storytelling, **Dreamy Room** is
 
 [Click and start playing Dreamy Room today!](https://dreamy-room.org) Unpack memories, piece together stories, and transform ordinary spaces into dreamy, heartfelt rooms. With its soothing visuals, relaxing puzzles, and emotionally rich storytelling, **Dreamy Room** is sure to become your new favorite escape.
 
-Are you excited yet? [Jump into Dreamy Room now](https://dreamy-room.org)—your cozy puzzle adventure is waiting!
+Are you excited yet? Jump into [Dreamy Room Game](https://dreamy-room.org) — your cozy puzzle adventure is waiting!
